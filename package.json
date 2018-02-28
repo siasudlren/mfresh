@@ -1,0 +1,25 @@
+{
+  "name": "day02",
+  "version": "1.0.0",
+  "description": "mfresh backend project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js",
+    "start": "node ./index.js",
+    "stop": "node ./stop.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://tedu.cn/day02.git"
+  },
+  "keywords": [
+    "node",
+    "vue",
+    "mfresh"
+  ],
+  "author": "wupeng",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
